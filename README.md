@@ -1,2 +1,2 @@
 # UVA
-here my sloutions to UVA problems using c++
+here my AC sloutions to UVA problems using c++
